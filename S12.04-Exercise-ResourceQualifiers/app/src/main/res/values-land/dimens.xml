@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><!--
+<?xml version="1.0" encoding="utf-8"?>
+<!--
      Copyright (C) 2016 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,11 +15,12 @@
      limitations under the License.
 -->
 
+<!-- Complete (1) Create the version of dimens that will be used in landscape mode -->
 
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="forecast_detail_horizontal_padding">32dp</dimen>
-    <dimen name="forecast_detail_vertical_padding">16dp</dimen>
+    <dimen name="forecast_detail_horizontal_padding">16dp</dimen>
+    <dimen name="forecast_detail_vertical_padding">44dp</dimen>
 
     <!-- Icon Sizes -->
     <dimen name="today_icon">96dp</dimen>
